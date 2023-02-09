@@ -94,7 +94,7 @@ header div{
 .positive-section{
     height: 300px;
     width: 1140px;
-    background-image: url(./images/watch.png);
+    background: linear-gradient(to top right,rgba(241, 93, 34, 0.748),rgba(201, 199, 198, 0)), url(./images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0 auto;
